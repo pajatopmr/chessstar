@@ -28,6 +28,7 @@ with a game that has ended or an empty chat panel (See normal use
 notes).  If there is no such history, the User will be presented with
 a set of introductory choices (links) along the lines of:
 
+```
 Welcome to ChessStar
 --------------------
 
@@ -38,6 +39,7 @@ Welcome to ChessStar
     Learn more about ChessStar
 
 ---------------------
+```
 
 ## Starting a new game
 
@@ -45,6 +47,7 @@ Tapping on this button brings up a confirmation dialog to allow the
 User to invite an opponent to a game via Email.  Something along the
 lines of:
 
+```
 Invite a player or a guest
 --------------------------
 
@@ -58,6 +61,7 @@ Invite a player or a guest
 --------------------------
 
           Cancel OK
+```
 
 The preference settings will be presented only once, per invited User.
 They may be modified from the preferences screen (see Preferences
@@ -70,6 +74,7 @@ to watch or to play in.  Selecting a game causes the app to present
 the normal screen for that game room.  The list will look something
 like:
 
+```
 ...
     < Join a game already in progress
 
@@ -81,6 +86,7 @@ like:
 
        Grandpop vs pajato1 2/22/2016 3:17am EST
 ...
+```
 
 Tapping on an item will select that game.
 
