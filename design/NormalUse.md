@@ -12,11 +12,12 @@ HipChat, etc.  The right panel will show an active chess game.
 The pair of panels represent a game room.  The Users in the game room
 will consist of players and watchers.
 
-Chat Panel
+## Chat Panel
 
 The Users are shown by nickname (if selected) or real name in the chat
 panel as a prefix to every message.  For example,
 
+```
 Grandpop:
     Nice move Conor!
 ChessWhiz (Black):
@@ -31,17 +32,18 @@ Grandpop:
 Ethan: OK, I'll take white.
 Grandop leaves.
 Ethan leaves.
+```
 
 Players are tagged with their color.  Icons (avatars) and
 fontification will be used to provide a beautiful design.
 
-Game Panel
+## Game Panel
 
 The chess panel will show the active game and will provide an
 interactive experience for the players modeled after the Android
 ChessFree app.
 
-Main Menu
+## Main Menu
 
 A main menu will be provided (Action Bar) to allow the User to switch
 identity, join another game room, start a new game, enter a private
