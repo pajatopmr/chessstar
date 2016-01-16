@@ -11,10 +11,10 @@ For example,
 Select Sign-in
 --------------
 
-o (Facebook icon) fred@somedomain.com
-x (Google+ icon) fred@somedomain.com
-o (Google+ icon) family@gmail.com
-o (Twitter icon) @foobar
+* o (Facebook icon) fred@somedomain.com
+* x (Google+ icon) fred@somedomain.com
+* o (Google+ icon) family@gmail.com
+* o (Twitter icon) @foobar
 
 --------------
 
