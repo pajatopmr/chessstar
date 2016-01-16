@@ -7,19 +7,19 @@ showing a list of radio button choices indicating the identity name
 typically Google, Facebook, Twitter, etc).
 
 For example,
-
+```
 Select Sign-in
 --------------
 
-* o (Facebook icon) fred@somedomain.com
-* x (Google+ icon) fred@somedomain.com
-* o (Google+ icon) family@gmail.com
-* o (Twitter icon) @foobar
+  o (Facebook icon) fred@somedomain.com
+  x (Google+ icon) fred@somedomain.com
+  o (Google+ icon) family@gmail.com
+  o (Twitter icon) @foobar
 
 --------------
 
           Cancel OK
-
+```
 The title is fixed and the list of identities is in a scrollable list.
 
 After a successful sign-in, the User is presented with a normal screen
