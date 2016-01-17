@@ -7,6 +7,7 @@ showing a list of radio button choices indicating the identity name
 typically Google, Facebook, Twitter, etc).
 
 For example,
+
 ```
 Select Sign-in
 --------------
@@ -65,7 +66,7 @@ Invite a player or a guest
 
 The preference settings will be presented only once, per invited User.
 They may be modified from the preferences screen (see Preferences
-desgin notes).
+design notes).
 
 ## Joining a game already in progress
 
